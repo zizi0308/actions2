@@ -1,0 +1,14 @@
+{
+  "name": "actions",
+  "version": "1.0.0",
+  "description": "Node.js CI/CD example project",
+  "main": "add.js",
+  "scripts": {
+    "test": "jest",
+    "build": "echo 'Building project...'"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
